@@ -1,0 +1,196 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "first@gmail.com",
+      "name": "first user",
+      "password": "11223344"
+    },
+    {
+      "email": "fahad@gmail.com",
+      "name": "fahad shakeel",
+      "password": "11223344",
+      "id": 2
+    },
+    {
+      "email": "usamafaheemahemd80@gmail.com",
+      "name": "usama",
+      "password": "usama",
+      "id": 3
+    },
+    {
+      "email": "anjum@gmail.com",
+      "name": "jamal ",
+      "password": "1122",
+      "id": 4
+    },
+    {
+      "email": "asdf@gmail.com",
+      "name": "usama ",
+      "password": "p",
+      "id": 5
+    },
+    {
+      "email": "usamafaheemahmed80@gmail.com",
+      "name": "usama faheem",
+      "password": "uk322",
+      "task1": "todo List",
+      "id": 6
+    },
+    {
+      "email": "usamafaheem@gmail.com",
+      "name": "asdwa",
+      "password": "aaa",
+      "task1": "todo List",
+      "id": 7
+    },
+    {
+      "email": "usamafahea2em@gmail.com",
+      "name": "asdwa",
+      "password": "aaa",
+      "task1": "todo List",
+      "id": 8
+    },
+    {
+      "email": "komail@gamil.comm",
+      "name": "komail",
+      "password": "1122",
+      "task1": "todo List",
+      "id": 9
+    },
+    {
+      "email": "komail@gmail.com",
+      "name": "asd",
+      "password": "komail",
+      "task1": "todo List",
+      "id": 10
+    },
+    {
+      "email": "komail@gmail.com",
+      "name": "asd",
+      "password": "komail",
+      "task1": "todo List",
+      "id": 11
+    },
+    {
+      "email": "komail@gmail.com",
+      "name": "asd",
+      "password": "komail",
+      "task1": "todo List",
+      "id": 12
+    }
+  ],
+  "Task": [
+    {
+      "id": 0,
+      "loggedInEmail": "example@gmail.com",
+      "AllTask": []
+    },
+    {
+      "loggedInEmail": "usamafaheemahemd80@gmail.com",
+      "AllTask": [
+        {
+          "id": 0,
+          "task": "sundas ",
+          "Status": "complete",
+          "date": "Wed, Apr-05-2023 16:41:34",
+          "priority": "urgent"
+        },
+        {
+          "id": 1,
+          "task": "gufran",
+          "Status": "progress",
+          "date": "Wed, Apr-05-2023 16:41:48",
+          "priority": "urgent"
+        },
+        {
+          "id": 2,
+          "task": "anam",
+          "Status": "progress",
+          "date": "Wed, Apr-05-2023 16:41:51",
+          "priority": "urgent"
+        },
+        {
+          "id": 3,
+          "task": "usama",
+          "Status": "progress",
+          "date": "Wed, Apr-05-2023 16:37:06",
+          "priority": "high"
+        },
+        {
+          "id": 4,
+          "task": "komail",
+          "Status": "complete",
+          "date": "Wed, Apr-05-2023 16:40:07",
+          "priority": "high"
+        },
+        {
+          "id": 5,
+          "task": "uzair",
+          "Status": "progress",
+          "date": "Wed, Apr-05-2023 16:41:49",
+          "priority": "urgent"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "loggedInEmail": "usamafaheemahmed80@gmail.com",
+      "AllTask": [
+        {
+          "id": 0,
+          "task": "completed todo list ",
+          "Status": "progress",
+          "date": "Mon, Apr-24-2023 16:11:49",
+          "priority": "urgent"
+        },
+        {
+          "id": 1,
+          "task": "new task",
+          "Status": "complete",
+          "date": "Mon, Apr-24-2023 16:11:51",
+          "priority": "urgent"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "loggedInEmail": null,
+      "AllTask": [
+        {
+          "id": 0,
+          "task": "react tast"
+        },
+        {
+          "id": 1,
+          "task": "react bootstrap "
+        },
+        {
+          "id": 2,
+          "task": "material UI/UX"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "loggedInEmail": "komail@gmail.com",
+      "AllTask": [
+        {
+          "id": 0,
+          "task": "asdfasfa",
+          "Status": "complete",
+          "date": "Mon, May-08-2023 12:50:33",
+          "priority": "low"
+        },
+        {
+          "id": 1,
+          "task": "sadasda",
+          "Status": "progress",
+          "date": "Mon, May-08-2023 12:50:44",
+          "priority": "low"
+        }
+      ],
+      "id": 4
+    }
+  ]
+}
